@@ -1,0 +1,10 @@
+streamlit
+mysql
+pandas
+numpy
+datetime
+decimal
+json
+typing
+re
+openpyxl
